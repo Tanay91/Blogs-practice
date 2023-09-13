@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://via.placeholder.com/300",
+      "title": "Fictional Adventure",
+      "author": "John Doe",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2023-09-13",
+      "reading_time": 15,
+      "hashtag": ["fiction", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://via.placeholder.com/300",
+      "title": "Mystery Unveiled",
+      "author": "Jane Smith",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2023-09-14",
+      "reading_time": 20,
+      "hashtag": ["mystery", "detective"]
+    },
+    {
+      "id": 3,
+      "cover": "https://via.placeholder.com/300",
+      "title": "Sci-Fi Odyssey",
+      "author": "Sam Johnson",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2023-09-15",
+      "reading_time": 25,
+      "hashtag": ["science-fiction", "space"]
+    },
+    {
+      "id": 4,
+      "cover": "https://via.placeholder.com/300",
+      "title": "Romantic Escapade",
+      "author": "Emily Brown",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2023-09-16",
+      "reading_time": 18,
+      "hashtag": ["romance", "love"]
+    },
+    {
+      "id": 5,
+      "cover": "https://via.placeholder.com/300",
+      "title": "Thrilling Suspense",
+      "author": "Michael Davis",
+      "author_img": "https://via.placeholder.com/150",
+      "posted_date": "2023-09-17",
+      "reading_time": 22,
+      "hashtag": ["suspense", "thriller"]
+    }
+  ]
+  
